@@ -1,2 +1,2 @@
-# java-study
+# Java-Study
 My Java study repository.
